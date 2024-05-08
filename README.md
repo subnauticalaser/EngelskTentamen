@@ -24,3 +24,8 @@
 - [ ] **3. The pepole are impressive but colourless.**
 - [ ] **4. The corpses were nothing but skeletons covered with taut yellow skin, usally naked, for rags were taken by the living.**
 - [ ] **5. These people were degraded to the level of beasts.**
+
+
+
+## Part 2 (long answer) - answer one of the four tasks (a, b, c OR d).
+
