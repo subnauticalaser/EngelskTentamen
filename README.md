@@ -19,4 +19,4 @@
 > ### **b)**
 
 
-### - [ ] 1.
+- [ ] 1. When we arrvived there were about 40,000 living, half-living, and near dead, and about 10,000 - 15,000 unburied corpses.
