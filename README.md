@@ -36,6 +36,7 @@
 
 - [ ] **1. ser ut some england**
 - [ ] **2. On September 7, 1940, 300 German bombers raid London, in the first of 57 consective nights of bombing. This bombing “blitzkreig” (lightning war) would continue until May 1941.**
+- [ ] **3. After the successful occupation of France, it was only a matter of time before the Germans turned their sights across the Channel to England. Hitler wanted a submissive, neutralized Britain so that he chould concentrate on his plans for East, namely the land invasion of the Soviet Union, without interference. Since June, English vessels in the Channel had been attacked and aerial battles had been fought over Britain, as Germany attempted to wear down the Royal Air Force in anticipation of a land invasion. But with Germany failling to cripple Britain’s air power, especially in the Battle of Britain, Hitler changed strategies. A land invasion was now ruled out as unrealistic; instead Hitler chose sheer terror as his weapon of choice.**
 
 
 
