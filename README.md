@@ -32,4 +32,16 @@
 ## Part 2 (long answer) - answer one of the four tasks (a, b, c OR d).
 
 
+
+
+- [ ] **1. ser ut some england**
+- [ ] **2. On September 7, 1940, 300 German bombers raid London, in the first of 57 consective nights of bombing. This bombing “blitzkreig” (lightning war) would continue until May 1941.**
+
+
+
+
+
+
+
 <img src='https://assets.editorial.aetnd.com/uploads/2009/11/tdih-september-7-gettyimages-96832124.jpg'></img>
+
