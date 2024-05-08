@@ -14,4 +14,9 @@
 
 ### **2) Tall- tells something about how Height something is. Small- tells something about how Small something is.**
 
+
+
 > ### **b)**
+
+
+### -[ ] 1.
