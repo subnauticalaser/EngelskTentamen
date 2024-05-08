@@ -19,8 +19,8 @@
 > ### **b)**
 
 
-- [x] **1. When we arrvived there were about 40,000 living, half-living, and near dead, and about 10,000 - 15,000 unburied corpses.**
-- [x] **2. Belsen Camp nearby the Baltic coast, in the Lubeck area.**
-- [x] **3. The pepole are impressive but colourless.**
-- [x] **4. The corpses were nothing but skeletons covered with taut yellow skin, usally naked, for rags were taken by the living.**
-- [x] **5. These people were degraded to the level of beasts.**
+- [ ] **1. When we arrvived there were about 40,000 living, half-living, and near dead, and about 10,000 - 15,000 unburied corpses.**
+- [ ] **2. Belsen Camp nearby the Baltic coast, in the Lubeck area.**
+- [ ] **3. The pepole are impressive but colourless.**
+- [ ] **4. The corpses were nothing but skeletons covered with taut yellow skin, usally naked, for rags were taken by the living.**
+- [ ] **5. These people were degraded to the level of beasts.**
