@@ -32,3 +32,4 @@
 ## Part 2 (long answer) - answer one of the four tasks (a, b, c OR d).
 
 
+<img src='https://assets.editorial.aetnd.com/uploads/2009/11/tdih-september-7-gettyimages-96832124.jpg'></img>
