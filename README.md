@@ -8,5 +8,7 @@
 > ### **a)**
 
 
+<!-- Looked like a small wardrobe with a coat thrown over it.** -->
+
 ### **1) Looked like a small wardrobe with a coat thrown over it.**
 
