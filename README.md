@@ -8,5 +8,5 @@
 > ### **a)**
 
 
-### 1. X
+### 1) Looked like a small wardrobe with a coat thrown over it.
 
