@@ -10,5 +10,5 @@
 
 <!-- Looked like a small wardrobe with a coat thrown over it.** -->
 
-### **1) Looked like a small wardrobe with a coat thrown over it.**
+### **1) There was a distinct waddle to her. Almost cute, if it wasn't for her face, which was like creased-up cardboard and annoyed, as if she was merely tolerating all of it**
 
